@@ -1,4 +1,4 @@
-FROM debian
+FROM debian:11
 LABEL version="1.1"
 LABEL description="Dockerized version of Trustedsec PTF - Penetration Testing Framework"
 LABEL author="Jacobo Avariento Gimeno"
